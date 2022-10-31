@@ -1,0 +1,24 @@
+{
+    "Reseña": [
+        {
+            "IdRestaurante": 1,
+            "Reseña":["Excelente","Bueno","Malo"]
+        },
+        {
+            "IdRestaurante": 2,
+            "Reseña":["Excelente","Bueno","Malo"]
+        },
+        {
+            "IdRestaurante": 3,
+            "Reseña":["Excelente","Bueno","Malo"]
+        },
+        {
+            "IdRestaurante": 4,
+            "Reseña":["Excelente","Bueno","Malo"]
+        },
+        {
+            "IdRestaurante": 5,
+            "Reseña":["Excelente","Bueno","Malo"]
+        }
+    ]
+}

@@ -1,18 +1,79 @@
 {
     "Menu": [
         {
-            "IDRestaurante": 1,
-            "Primer-Plato":{"Nombre": "Tostado", "Precio-Unitario":"$350"},
-            "Plato-Principal":{"Nombre":"Panqueques Salados","Precio-Unitario":"$1.500"},
-            "Postre":{"Nombre": "Panqueque Dulce", "Precio-Unitario":"$650"}
-
+            "IdRestaurante": 1,
+            "Primer-Plato": {
+                "Nombre": "Tostado",
+                "Precio-Unitario": 350
+            },
+            "Plato-Principal": {
+                "Nombre": "Panqueques Salados",
+                "Precio-Unitario": 1500
+            },
+            "Postre": {
+                "Nombre": "Panqueque Dulce",
+                "Precio-Unitario": 650
+            }
         },
         {
-            "IDRestaurante": 2,
-            "Primer-Plato":{"Nombre": "Figazas especiales", "Precio-Unitario":"$800"},
-            "Plato-Principal":{"Nombre":"Bife de chorizo mariposa","Precio-Unitario":"$3.050"},
-            "Postre":{"Nombre": "Volcán de chocolate", "Precio-Unitario":"$1.200"}
-
+            "IdRestaurante": 2,
+            "Primer-Plato": {
+                "Nombre": "Figazas especiales",
+                "Precio-Unitario": 800
+            },
+            "Plato-Principal": {
+                "Nombre": "Bife de chorizo mariposa",
+                "Precio-Unitario": 3050
+            },
+            "Postre": {
+                "Nombre": "Volcán de chocolate",
+                "Precio-Unitario": 1200
+            }
+        },
+        {
+            "IdRestaurante": 3,
+            "Primer-Plato": {
+                "Nombre": "Ensalada caesar",
+                "Precio-Unitario": 200
+            },
+            "Plato-Principal": {
+                "Nombre": "Bife de carne con papas al horno",
+                "Precio-Unitario": 1200
+            },
+            "Postre": {
+                "Nombre": "Helado de crema con salsa de chocolate",
+                "Precio-Unitario": 520
+            }
+        },
+        {
+            "IdRestaurante": 4,
+            "Primer-Plato": {
+                "Nombre": "Muzzarelitas con salsa de tomate",
+                "Precio-Unitario": 315
+            },
+            "Plato-Principal": {
+                "Nombre": "Milanesa napolitana con pure de papas",
+                "Precio-Unitario": 1740
+            },
+            "Postre": {
+                "Nombre": "Brownie con dulce de leche y merengue italiano",
+                "Precio-Unitario": 760
+            }
+        },
+        {
+            "IdRestaurante": 5,
+            "Primer-Plato": {
+                "Nombre": "Rabas de calamar con limon",
+                "Precio-Unitario": 520
+            },
+            "Plato-Principal": {
+                "Nombre": "Ribs de cerdo a la barbacoa con papas fritas",
+                "Precio-Unitario": 2400
+            },
+            "Postre": {
+                "Nombre": "Lemon pie",
+                "Precio-Unitario": 560
+            }
         }
     ]
 }
