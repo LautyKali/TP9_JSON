@@ -1,0 +1,71 @@
+{
+    "Restaurantes": [
+        {
+            "ID": 1,
+            "Nombre": "Lo de Carlitos",
+            "Año-de-Apertura": "23/10/1963",
+            "Ubicacion": {
+                "Latitud": -37.2591149,
+                "Longitud": -56.97153419
+            },
+            "Dueños": [
+                "Carlos Ciuffardi"
+            ],
+            "Logo": "FotoCarlitos.jpg"
+        },
+        {
+            "ID": 2,
+            "Nombre": "Las Violetas",
+            "Año-de-Apertura": "21/9/1884",
+            "Ubicacion": {
+                "Latitud": -34.611167,
+                "Longitud": -58.420861
+            },
+            "Dueños": [
+                "Felman",
+                "Rodríguez Acal"
+            ],
+            "Logo": "FotoVioletas.jpg"
+        },
+        {
+            "ID": 3,
+            "Nombre": "Rodizio",
+            "Año-de-Apertura": "10/10/1960",
+            "Ubicacion": {
+                "Latitud": -34.6072054,
+                "Longitud": -58.3664792
+            },
+            "Dueños": [
+                "Grupo Golden Center"
+            ],
+            "Logo": "FotoRodizio.jpg"
+        },
+        {
+            "ID": 4,
+            "Nombre": "Kansas",
+            "Año-de-Apertura": "4/6/1999",
+            "Ubicacion": {
+                "Latitud": -34.564504,
+                "Longitud": -58.432237
+            },
+            "Dueños": [
+                "Hugo Conzi",
+                "Horacio Conzi"
+            ],
+            "Logo": "FotoKansas.jpg"
+        },
+        {
+            "ID": 5,
+            "Nombre": "Ugi's",
+            "Año-de-Apertura": "8/8/1980",
+            "Ubicacion": {
+                "Latitud": -34.590610,
+                "Longitud": -58.434574
+            },
+            "Dueños": [
+                "Hugo Solís"
+            ],
+            "Logo": "FotoUgis.jpg"
+        }
+    ]
+}

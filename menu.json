@@ -1,0 +1,18 @@
+{
+    "Menu": [
+        {
+            "IDRestaurante": 1,
+            "Primer-Plato":{"Nombre": "Tostado", "Precio-Unitario":"$350"},
+            "Plato-Principal":{"Nombre":"Panqueques Salados","Precio-Unitario":"$1.500"},
+            "Postre":{"Nombre": "Panqueque Dulce", "Precio-Unitario":"$650"}
+
+        },
+        {
+            "IDRestaurante": 2,
+            "Primer-Plato":{"Nombre": "Figazas especiales", "Precio-Unitario":"$800"},
+            "Plato-Principal":{"Nombre":"Bife de chorizo mariposa","Precio-Unitario":"$3.050"},
+            "Postre":{"Nombre": "Volcán de chocolate", "Precio-Unitario":"$1.200"}
+
+        }
+    ]
+}
